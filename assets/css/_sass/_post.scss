@@ -103,3 +103,14 @@
     width: 95vw;
   }
 }
+.restaurant, restaurant-item {
+  border: 0px solid transparent;
+  padding: 0px;
+  margin: 0px;
+  border-spacing: 0px;
+}
+.vl {
+    border-left:1px solid grey;
+    display: inline;
+    margin: 5px;
+}
