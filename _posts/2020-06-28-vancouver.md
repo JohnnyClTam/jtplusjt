@@ -175,7 +175,7 @@ Tip: Seating is limited and reservations are hard to come by, come early to avoi
 
 &nbsp;
 
-#Lunch
+# Lunch
 
 Vancouver's most abundant food scene is when our City is finally awake. All restaurants you were waiting to try are finally open during these hours, that is only if you can get a spot or spare the time to line up.
 
