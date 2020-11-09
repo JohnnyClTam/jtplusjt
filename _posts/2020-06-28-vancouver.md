@@ -106,7 +106,7 @@ Tip: Come around 9:30 AM to avoid waiting for a table.
 
 # Brunch
 
-A weekend tradition, Vancouver has an abundant brunch scene. Avocado toasts, eggs benedict and fruit bowls can be found everywhere.
+A weekend tradition, Vancouver has an abundant brunch scene with bountiful Millenials who live at home and hipsters working tech jobs. Avocado toasts, eggs benedict and fruit bowls can be found along every corner across from the Starbucks.
 
 &nbsp;
 
@@ -177,6 +177,7 @@ Tip: Seating is limited and reservations are hard to come by, come early to avoi
 
 #Lunch
 
+Vancouver's most abundant food scene is when our City is finally awake. All restaurants you were waiting to try are finally open during these hours, that is only if you can get a spot or spare the time to line up.
 
 &nbsp;
 
@@ -289,7 +290,9 @@ Craving authentic Xiao Long Bao? Lin's is an award-winning Shanghainese cuisine 
 
 &nbsp;
 
-#Dinner
+# Dinner
+
+The weird excuse to mark-up the same meal you had at lunch, dinner has abundant offerings in Vancouver with our ethnic diversity reflected in our culinary offerings. 
 
 &nbsp;
 
