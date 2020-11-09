@@ -11,13 +11,20 @@ Vancouver, a bustling west coast seaport in British Columbia, is among Canada’
 
 &nbsp;
 
-A. [Brunch](#brunch)
+A. [Breakfast](#breakfast)
+   1. [Siegels Bagels](#siegels-bagels)
+   2. [Marulilu Cafe](#marulilu-cafe)
+
+B. [Brunch](#brunch)
    1. [Jam Cafe](#jam-cafe)
    2. [Linh Café](#linh-cafe)
 
-B. [Lunch](#lunch)
+C. [Lunch](#lunch)
+   1. [Uma Sushi](#uma-sushi)
+   2. [Saku](saku)
+   3. [Lin Chinese Cuisine and Tea House](#lin-chinese-cuisine-and-tea-house)
 
-C. [Dinner](#dinner)
+D. [Dinner](#dinner)
    1. [AnnaLena](#annalena)
 
 
